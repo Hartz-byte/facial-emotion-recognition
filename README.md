@@ -1,3 +1,11 @@
+![Python](https://img.shields.io/badge/Python-3.8%2B-blue?logo=python&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-2.x-orange?logo=tensorflow)
+![Keras](https://img.shields.io/badge/Keras-API-red?logo=keras)
+![EfficientNet](https://img.shields.io/badge/EfficientNet-B0-green)
+![Model](https://img.shields.io/badge/Model-EfficientNetB0-brightgreen)
+![Dataset](https://img.shields.io/badge/Dataset-FER2013-blue)
+
+
 # Facial Emotion Recognition with EfficientNetB0
 This project implements a deep learning-based Facial Emotion Recognition (FER) system using EfficientNetB0 as the backbone model, trained and fine-tuned on the popular FER2013 dataset.
 
